@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.4c505781.css",
+    "main.js": "/Portfolio/static/js/main.8748ea21.js",
+    "static/js/787.4f1db364.chunk.js": "/Portfolio/static/js/787.4f1db364.chunk.js",
+    "static/media/Bienes-Raices.png": "/Portfolio/static/media/Bienes-Raices.c6e3a02ea7fed8f93502.png",
+    "static/media/Programming Wallpaper.jpeg": "/Portfolio/static/media/Programming Wallpaper.f45f59281c781089ac7d.jpeg",
+    "static/media/Cotizador.png": "/Portfolio/static/media/Cotizador.6ce3230c2d817237d06e.png",
+    "static/media/Noticias.png": "/Portfolio/static/media/Noticias.98a5ed148fdad33d6aa3.png",
+    "static/media/AlexT.png": "/Portfolio/static/media/AlexT.ed4cc29ac971c4dd1318.png",
+    "static/media/Criptomonedas.png": "/Portfolio/static/media/Criptomonedas.807813a43297ca6d0bd5.png",
+    "static/media/Clima.png": "/Portfolio/static/media/Clima.d9cc8784a891741b46f0.png",
+    "index.html": "/Portfolio/index.html",
+    "main.4c505781.css.map": "/Portfolio/static/css/main.4c505781.css.map",
+    "main.8748ea21.js.map": "/Portfolio/static/js/main.8748ea21.js.map",
+    "787.4f1db364.chunk.js.map": "/Portfolio/static/js/787.4f1db364.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c505781.css",
+    "static/js/main.8748ea21.js"
+  ]
+}
