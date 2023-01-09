@@ -1,23 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
+import NavBar from './components/NavBar/NavBar';
+import HeroSection from './components/HeroSection/HeroSection';
+import About from './components/About/About';
+import Aos from 'aos';
+import 'aos/dist/aos.css';
+import Skills from './components/skills/Skills';
+import Services from './components/MyServices/Services';
+import Projects from './components/Projects/Projects';
+import Contact from './components/Contact/Contact';
+
+Aos.init();
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <NavBar />
+      <HeroSection />
+      <About />
+      <Skills />
+      <Services />
+      <Projects />
+      <Contact />
     </div>
   );
 }
