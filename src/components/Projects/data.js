@@ -1,8 +1,6 @@
 import Work1 from '../../assets/Projects/Clima.png';
-import Work2 from '../../assets/Projects/Cotizador.png';
-import Work3 from '../../assets/Projects/Criptomonedas.png';
-import Work4 from '../../assets/Projects/Noticias.png';
-import Work5 from '../../assets/Projects/Bienes-Raices.png';
+import Work2 from '../../assets/Projects/Criptomonedas.png';
+import Work3 from '../../assets/Projects/Bienes-Raices.png';
 
 const data = [
   {
@@ -10,40 +8,24 @@ const data = [
     image: Work1,
     title: 'Clima App - React',
     desciption: 'Proyecto React',
-    github: 'https://react-icons.github.io/react-icons/search?q=like',
-    demo: 'www.google.com',
-  },
-  {
-    id: 2,
-    image: Work2,
-    title: 'Cotizador Seguro de Autos - React',
-    desciption: 'Proyecto React',
-    github: 'Web',
-    demo: '',
+    github: 'https://github.com/BlearyAlex/Clima-API',
+    demo: 'https://blearyalex.github.io/Clima-API/',
   },
   {
     id: 3,
-    image: Work3,
+    image: Work2,
     title: 'Cotizador Criptomonedas',
     desciption: 'Proyecto React',
-    github: 'Web',
-    demo: '',
-  },
-  {
-    id: 4,
-    image: Work4,
-    title: 'Buscador de Noticias',
-    desciption: 'Proyecto React',
-    github: 'https://github.com/BlearyAlex/Noticias-API',
-    demo: 'https://blearyalex.github.io/Noticias-API/',
+    github: 'https://github.com/BlearyAlex/Criptos-React--API',
+    demo: 'https://blearyalex.github.io/Criptos-React--API/',
   },
   {
     id: 5,
-    image: Work5,
+    image: Work3,
     title: 'Pagina Bienes Raices',
     desciption: 'Proyecto React',
-    github: 'Web',
-    demo: '',
+    github: 'https://github.com/BlearyAlex/BienesRaices',
+    demo: 'https://aesthetic-salmiakki-cce25f.netlify.app/',
   },
 ];
 
