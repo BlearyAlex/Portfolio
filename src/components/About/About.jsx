@@ -33,7 +33,7 @@ function About() {
             team, and also give me the opportunity to put into practice my
             skills and knowledge acquired in the years of study.
           </p>
-          <a className="btn" href="./CV_Erick Ortiz.pdf">
+          <a className="btn" href="./CV_Erick Alejadro Ortiz V..pdf">
             Download
             <HiDownload />
           </a>
