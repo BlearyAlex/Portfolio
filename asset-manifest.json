@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4c505781.css",
-    "main.js": "/Portfolio/static/js/main.40348e11.js",
+    "main.js": "/Portfolio/static/js/main.275f4e5e.js",
     "static/js/787.4f1db364.chunk.js": "/Portfolio/static/js/787.4f1db364.chunk.js",
     "static/media/Bienes-Raices.png": "/Portfolio/static/media/Bienes-Raices.c6e3a02ea7fed8f93502.png",
     "static/media/Programming Wallpaper.jpeg": "/Portfolio/static/media/Programming Wallpaper.f45f59281c781089ac7d.jpeg",
@@ -10,11 +10,11 @@
     "static/media/Clima.png": "/Portfolio/static/media/Clima.d9cc8784a891741b46f0.png",
     "index.html": "/Portfolio/index.html",
     "main.4c505781.css.map": "/Portfolio/static/css/main.4c505781.css.map",
-    "main.40348e11.js.map": "/Portfolio/static/js/main.40348e11.js.map",
+    "main.275f4e5e.js.map": "/Portfolio/static/js/main.275f4e5e.js.map",
     "787.4f1db364.chunk.js.map": "/Portfolio/static/js/787.4f1db364.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c505781.css",
-    "static/js/main.40348e11.js"
+    "static/js/main.275f4e5e.js"
   ]
 }
